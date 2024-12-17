@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TurnCalGUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd1cddf53c8608b54fb00a948dcf7d45f85fb3f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4d70e1e077982d096132dc81cfb7610ba937146")]
 [assembly: System.Reflection.AssemblyProductAttribute("TurnCalGUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TurnCalGUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
